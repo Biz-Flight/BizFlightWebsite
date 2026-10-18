@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="BizFlight logo">
+  <defs>
+    <linearGradient id="left" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14B8F2"/><stop offset="1" stop-color="#125DF4"/></linearGradient>
+    <linearGradient id="right" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12D0E5"/><stop offset="1" stop-color="#087BF5"/></linearGradient>
+  </defs>
+  <path d="M33 22 12 46a4 4 0 0 0 0 5l21 23" fill="none" stroke="url(#left)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m63 31 19 17-19 19" fill="none" stroke="url(#right)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M35 72 58 24l-18 6 12 3-25 50" fill="#1764F6"/>
+  <rect x="66" y="9" width="9" height="9" rx="1.5" fill="#2563EB"/>
+  <rect x="80" y="4" width="8" height="8" rx="1.5" fill="#06B6D4"/>
+  <rect x="81" y="20" width="7" height="7" rx="1.5" fill="#0EA5E9"/>
+</svg>
